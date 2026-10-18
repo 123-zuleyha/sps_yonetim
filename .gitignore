@@ -1,0 +1,5 @@
+.venv/
+venv/
+__pycache__/
+sps_backup.sql
+.env
